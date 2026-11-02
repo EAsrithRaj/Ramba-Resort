@@ -1,0 +1,182 @@
+[
+  {
+    "brokenLoadedImages": 0,
+    "client": 305,
+    "contentWidth": 305,
+    "overflow": false,
+    "page": "index.html",
+    "sections": 7,
+    "width": 320
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 305,
+    "contentWidth": 305,
+    "overflow": false,
+    "page": "story.html",
+    "sections": 4,
+    "width": 320
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 305,
+    "contentWidth": 305,
+    "overflow": false,
+    "page": "experience.html",
+    "sections": 5,
+    "width": 320
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 305,
+    "contentWidth": 305,
+    "overflow": false,
+    "page": "retreat.html",
+    "sections": 4,
+    "width": 320
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 305,
+    "contentWidth": 305,
+    "overflow": false,
+    "page": "enquire.html",
+    "sections": 3,
+    "width": 320
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 375,
+    "contentWidth": 375,
+    "overflow": false,
+    "page": "index.html",
+    "sections": 7,
+    "width": 390
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 375,
+    "contentWidth": 375,
+    "overflow": false,
+    "page": "story.html",
+    "sections": 4,
+    "width": 390
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 375,
+    "contentWidth": 375,
+    "overflow": false,
+    "page": "experience.html",
+    "sections": 5,
+    "width": 390
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 375,
+    "contentWidth": 375,
+    "overflow": false,
+    "page": "retreat.html",
+    "sections": 4,
+    "width": 390
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 375,
+    "contentWidth": 375,
+    "overflow": false,
+    "page": "enquire.html",
+    "sections": 3,
+    "width": 390
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 753,
+    "contentWidth": 753,
+    "overflow": false,
+    "page": "index.html",
+    "sections": 7,
+    "width": 768
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 753,
+    "contentWidth": 753,
+    "overflow": false,
+    "page": "story.html",
+    "sections": 4,
+    "width": 768
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 753,
+    "contentWidth": 753,
+    "overflow": false,
+    "page": "experience.html",
+    "sections": 5,
+    "width": 768
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 753,
+    "contentWidth": 753,
+    "overflow": false,
+    "page": "retreat.html",
+    "sections": 4,
+    "width": 768
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 753,
+    "contentWidth": 753,
+    "overflow": false,
+    "page": "enquire.html",
+    "sections": 3,
+    "width": 768
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 1009,
+    "contentWidth": 1009,
+    "overflow": false,
+    "page": "index.html",
+    "sections": 7,
+    "width": 1024
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 1009,
+    "contentWidth": 1009,
+    "overflow": false,
+    "page": "story.html",
+    "sections": 4,
+    "width": 1024
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 1009,
+    "contentWidth": 1009,
+    "overflow": false,
+    "page": "experience.html",
+    "sections": 5,
+    "width": 1024
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 1009,
+    "contentWidth": 1009,
+    "overflow": false,
+    "page": "retreat.html",
+    "sections": 4,
+    "width": 1024
+  },
+  {
+    "brokenLoadedImages": 0,
+    "client": 1009,
+    "contentWidth": 1009,
+    "overflow": false,
+    "page": "enquire.html",
+    "sections": 3,
+    "width": 1024
+  }
+]

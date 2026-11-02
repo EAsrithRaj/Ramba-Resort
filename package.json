@@ -1,0 +1,13 @@
+{
+  "name": "ramba-resorts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "start": "node tools/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check script.js && node --test tests/*.test.mjs"
+  }
+}
